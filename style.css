@@ -32,3 +32,14 @@
 .stripe{
     height: .25rem;
 }
+
+.download{
+    padding: .5rem 2rem;
+    background-color: #1abc9c;
+    border: 1px solid white;
+}
+
+.download a{
+    text-decoration: none;
+    color: white;
+}
