@@ -2,16 +2,12 @@
     color: white;
 }
 
-
-
-
 .cs_start h2{
     font-size: 1rem;
 }
 .darknavy-text{
     color: #2c3e50;
 }
-
 
 .avatar{
     width: 150px;
@@ -32,6 +28,7 @@
 .white-bg{
     background-color: white;
 }
+
 .stripe{
     height: .25rem;
 }
