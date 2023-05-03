@@ -29,6 +29,10 @@
     background-color: white;
 }
 
+.white-text{
+    color: white;
+}
+
 .stripe{
     height: .25rem;
 }
@@ -42,4 +46,12 @@
 .download a{
     text-decoration: none;
     color: white;
+}
+
+.box-icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin: 0 .5rem;
 }
