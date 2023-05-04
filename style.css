@@ -9,6 +9,20 @@
     font-size: 1rem;
 }
 
+.navbar a{
+    color: white;
+}
+
+.navbar-brand:focus, .navbar-brand:hover{
+    color: white;
+}
+.nav-link:focus, .nav-link:hover{
+    color: white;
+}
+.filter-invert{
+    filter: invert(1);
+}
+
 section{
     padding-bottom: 1rem;
 }
