@@ -5,6 +5,10 @@
     color: white;
 }
 
+h1, h2{
+    margin-bottom: 0;
+}
+
 .cs_start h2{
     font-size: 1rem;
 }
@@ -24,7 +28,7 @@
 }
 
 section{
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
 }
 
 .darknavy-text{
