@@ -84,3 +84,12 @@ a{
 .my_py-6{
     padding: 2rem 0;
 }
+label{
+    color: #3a546d;
+    
+}
+
+.cs_border_b{
+    border-bottom: 1px solid gray;
+}
+
