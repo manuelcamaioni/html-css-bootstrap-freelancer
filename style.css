@@ -1,4 +1,7 @@
 *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
     color: white;
 }
 
@@ -11,6 +14,10 @@
 
 .avatar{
     width: 150px;
+}
+
+.turquoise-text{
+    color: #1abc9c;
 }
 
 .turquoise-bg{
@@ -43,7 +50,7 @@
     border: 1px solid white;
 }
 
-.download a{
+a{
     text-decoration: none;
     color: white;
 }
