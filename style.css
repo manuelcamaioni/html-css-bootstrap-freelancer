@@ -1,88 +1,88 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     color: white;
 }
 
-h1, h2{
-    margin-bottom: 0;
-}
-
-.cs_start h2{
+.cs_start h2 {
     font-size: 1rem;
 }
 
-.navbar a{
+.navbar a {
     color: white;
 }
 
-.navbar-brand:focus, .navbar-brand:hover{
+.navbar-brand:focus,
+.navbar-brand:hover {
     color: white;
 }
-.nav-link:focus, .nav-link:hover{
+
+.nav-link:focus,
+.nav-link:hover {
     color: white;
 }
-.filter-invert{
+
+.filter-invert {
     filter: invert(1);
 }
 
-section{
+section {
     padding-bottom: 2rem;
 }
 
-.darknavy-text{
+.darknavy-text {
     color: #2c3e50;
 }
 
-.black-text{
+.black-text {
     color: black;
 }
 
-.avatar{
+.avatar {
     width: 150px;
 }
 
-.turquoise-text{
+.turquoise-text {
     color: #1abc9c;
 }
 
-.turquoise-bg{
+.turquoise-bg {
     background-color: #1abc9c;
 }
 
-.navy-bg{
+.navy-bg {
     background-color: #3a546d;
 }
 
-.darknavy-bg{
+.darknavy-bg {
     background-color: #2c3e50;
 }
 
-.white-bg{
+.white-bg {
     background-color: white;
 }
 
-.white-text{
+.white-text {
     color: white;
 }
 
-.stripe{
+.stripe {
     height: .25rem;
 }
 
-.download{
+.download {
     padding: .5rem 2rem;
     background-color: #1abc9c;
     border: 1px solid white;
 }
 
-a{
+a {
     text-decoration: none;
     color: white;
 }
 
-.box-icon{
+.box-icon {
     width: 30px;
     height: 30px;
     border-radius: 50%;
@@ -90,15 +90,15 @@ a{
     margin: 0 .5rem;
 }
 
-.my_py-6{
+.my_py-6 {
     padding: 2rem 0;
 }
-label{
+
+label {
     color: #3a546d;
-    
+
 }
 
-.cs_border_b{
+.cs_border_b {
     border-bottom: 1px solid gray;
 }
-
