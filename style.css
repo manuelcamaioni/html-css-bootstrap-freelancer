@@ -26,8 +26,13 @@
 section{
     padding-bottom: 1rem;
 }
+
 .darknavy-text{
     color: #2c3e50;
+}
+
+.black-text{
+    color: black;
 }
 
 .avatar{
