@@ -13,6 +13,10 @@
     color: white;
 }
 
+main{
+    padding-top: 56px;
+}
+
 .navbar-brand:focus,
 .navbar-brand:hover {
     color: white;
@@ -102,3 +106,9 @@ label {
 .cs_border_b {
     border-bottom: 1px solid gray;
 }
+
+.cs_navbar{
+    position: fixed;
+    z-index: 1;
+}
+
